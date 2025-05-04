@@ -1,0 +1,3 @@
+On May4th, I made some extra features and hover effects and on tap new page in my Figma and made user-friendly interaction and formats.
+Unlike any other planning app, what makes this app new or unique is users can talk or communicate through texts with AI chatbot.
+I finished my design after fixing some errors and putting that figma project into github.
